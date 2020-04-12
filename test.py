@@ -8,4 +8,5 @@ $ git status
 > #
 > # both modified:      styleguide.md
 > #
-> no changes added to commit (use "git add" and/or "git commit -a")
+> no changes added to commit (do "git add" and/ar "git commit -a")
+ 
